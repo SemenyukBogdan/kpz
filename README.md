@@ -5,7 +5,7 @@
 
 ### компіляція та запуск вручну:
 ```bash
-javac -d target/classes src/main/java/lab3/*.java
+javac -d target/classes src/*.java
 java -cp target/classes lab3.Main
 ```
 

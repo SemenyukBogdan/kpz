@@ -5,8 +5,8 @@
 
 ### компіляція та запуск вручну:
 ```bash
-javac -d target/classes src/*.java
-java -cp target/classes lab3.Main
+javac -d ./out src/*.java
+java -cp ./out lab3.Main
 ```
 
 ## Структура проєкту
